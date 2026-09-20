@@ -1,0 +1,21 @@
+[submodule "cjong4"]
+	path = cjong4
+	url = https://github.com/sh-lab/cjong4.git
+[submodule "cjong4-opponent"]
+	path = cjong4-opponent
+	url = https://github.com/sh-lab/cjong4-opponent.git
+[submodule "cjong4-mjai"]
+	path = cjong4-mjai
+	url = https://github.com/sh-lab/cjong4-mjai.git
+	branch = dev/initial
+[submodule "cjong4-move-evaluator"]
+	path = cjong4-move-evaluator
+	url = https://github.com/sh-lab/cjong4-move-evaluator.git
+	branch = dev/initial
+[submodule "cjong4-discard-risk"]
+	path = cjong4-discard-risk
+	url = https://github.com/sh-lab/cjong4-discard-risk.git
+	branch = dev/initial
+[submodule "cjong4-web"]
+	path = cjong4-web
+	url = https://github.com/sh-lab/cjong4-web.git
